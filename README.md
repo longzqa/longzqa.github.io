@@ -25,7 +25,12 @@
 1. [二维图形Shapely](https://shapely.readthedocs.io/)
 2. [三维图形Cadquery](https://cadquery.readthedocs.io/en/latest/intro.html)
 
+## 六、开源项目
+
+1. [fastapi接口编写与代码部署框架](https://github.com/dovolopor-research/python-api-template)
+
 ## 其他
 
 1. [代码加密方案(pyarmor)](https://pyarmor.readthedocs.io/zh/stable/tutorial)
 2. [作为一个程序员你觉得是业务重要还是技术重要](https://www.zhihu.com/question/14813288519/answer/1894774065593574893)
+
