@@ -7,6 +7,7 @@
 ## 二、机器学习/强化学习
 
 1. [动手深度学习](https://zh.d2l.ai/chapter_preface/index.html)
+2. [强化学习-火箭回收项目](https://github.com/jiupinjia/rocket-recycling)
 
 ## 三、LeetCode笔试题
 
