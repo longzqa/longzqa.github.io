@@ -1,3 +1,5 @@
+PIP国内源: -i https://pypi.tuna.tsinghua.edu.cn/simple
+
 ## 一、AI工具
 
 1. [ChatGPT](https://v2.aichatoszx.com/#/chat/1716187334795)
@@ -6,8 +8,9 @@
 
 ## 二、机器学习/强化学习
 
-1. [动手深度学习](https://zh.d2l.ai/chapter_preface/index.html)
-2. [强化学习-火箭回收项目](https://github.com/jiupinjia/rocket-recycling)
+1. [pytorch学习笔记-电子书](https://pytorch.zhangxiann.com/)，[知乎版](https://zhuanlan.zhihu.com/p/265394674)
+2. [动手深度学习](https://zh.d2l.ai/chapter_preface/index.html)
+3. [强化学习-火箭回收项目](https://github.com/jiupinjia/rocket-recycling)
 
 ## 三、LeetCode笔试题
 
