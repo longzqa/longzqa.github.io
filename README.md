@@ -5,12 +5,14 @@ PIP国内源: -i https://pypi.tuna.tsinghua.edu.cn/simple
 1. [ChatGPT](https://v2.aichatoszx.com/#/chat/1716187334795)
 2. [Kimi智能助手](https://kimi.moonshot.cn/)
 3. [魔搭论坛](https://www.modelscope.cn/home)
+4. [电子书-书栈网](https://www.bookstack.cn/)
 
 ## 二、机器学习/强化学习
 
-1. [pytorch学习笔记-电子书](https://pytorch.zhangxiann.com/)，[知乎版](https://zhuanlan.zhihu.com/p/265394674)
-2. [动手深度学习](https://zh.d2l.ai/chapter_preface/index.html)
-3. [强化学习-火箭回收项目](https://github.com/jiupinjia/rocket-recycling)
+1.[强化学习蘑菇书-EasyRL](https://datawhalechina.github.io/easy-rl/)
+2. [pytorch学习笔记-电子书](https://pytorch.zhangxiann.com/)，[知乎版](https://zhuanlan.zhihu.com/p/265394674)
+3. [动手深度学习](https://zh.d2l.ai/chapter_preface/index.html)
+4. [强化学习-火箭回收项目](https://github.com/jiupinjia/rocket-recycling)
 
 ## 三、LeetCode笔试题
 
@@ -18,6 +20,7 @@ PIP国内源: -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 1. [算法通关手册](https://algo.itcharge.cn/10.Dynamic-Programming/01.Dynamic-Programming-Basic/)
 2. [代码随想录](https://programmercarl.com/)
+3. [Hello算法](https://www.hello-algo.com/chapter_computational_complexity/performance_evaluation/)
 
 ## 四. 精确算法资料
 
