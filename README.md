@@ -10,9 +10,10 @@ PIP国内源: -i https://pypi.tuna.tsinghua.edu.cn/simple
 ## 二、机器学习/强化学习
 
 1. [强化学习蘑菇书-EasyRL](https://datawhalechina.github.io/easy-rl/)
-2. [pytorch学习笔记-电子书](https://pytorch.zhangxiann.com/)，[知乎版](https://zhuanlan.zhihu.com/p/265394674)
-3. [动手深度学习](https://zh.d2l.ai/chapter_preface/index.html)
-4. [强化学习-火箭回收项目](https://github.com/jiupinjia/rocket-recycling)
+2. [动手强化学习](https://hrl.boyuai.com/chapter/1/)
+3. [pytorch学习笔记-电子书](https://pytorch.zhangxiann.com/)，[知乎版](https://zhuanlan.zhihu.com/p/265394674)
+4. [动手深度学习](https://zh.d2l.ai/chapter_preface/index.html)
+5. [强化学习-火箭回收项目](https://github.com/jiupinjia/rocket-recycling)
 
 ## 三、LeetCode笔试题
 
